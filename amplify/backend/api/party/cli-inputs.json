@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/parties": {
+      "name": "/parties",
+      "lambdaFunction": "party",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
